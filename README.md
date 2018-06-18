@@ -1,9 +1,10 @@
 # VAGRANT
 
 ### vagrant init <br />
+Initialize VagrantFile <br />
 
 ### vagrant up <br />
-
+UP virtual machines from Vagrantfile <br />
 
 ### vagrant package --base *name of vm* --output *path*.box <br />
 Lets say you virtual machine is named 'my_vm' and you want to drop it into the home directory <br />
@@ -12,5 +13,6 @@ Lets say you virtual machine is named 'my_vm' and you want to drop it into the h
 Vagrant will package your virtual machine into a base box. Whatever you name the box with the output flag, will be the name you use in your vagrantfile. <br />
 
 ### vagrant destroy <br />
+Destroy Virtual Machines
 
 ### vagrant halt <br />
