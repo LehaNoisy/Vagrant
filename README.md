@@ -1,5 +1,4 @@
-VAGRANT
-
+# VAGRANT
 
 ## vagrant package --base <name of vm> --output <path>.box <br />
 Lets say you virtual machine is named 'my_vm' and you want to drop it into the home directory <br />
